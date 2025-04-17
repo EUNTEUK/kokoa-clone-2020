@@ -1,0 +1,24 @@
+.badge{
+    background-color: tomato;
+    width: 25px;
+    height: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    color: white;
+    font-weight: 400;
+    font-size: 13px;
+}
+
+
+.find__dot{
+    background-color: tomato;
+    display: block;
+    width: 7px;
+    height: 7px;
+    border-radius: 50%;
+    position: absolute;
+    left: 20px;
+    bottom: 15px;
+}
